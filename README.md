@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**zychengjerry/zychengjerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zeyuan Cheng (Jerry Cheng), an Engineer from China. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working for a company in Shenzhen
+- 🌱 I’m currently learning Frontend Engineering
+
+## My Skills
+
+- Programming Languages: Html, CSS, JavaScript
+- Web Technologies: JavaScript, Vue.js, npm/yarn, Webpack/Vite, ESLint, Git, Jest
+
+<!-- ## My Projects
+
+- [Project Name](Link to Project Repository or Website): Short description.
+- [Project Name](Link to Project Repository or Website): Short description.
+- [Project Name](Link to Project Repository or Website): Short description. -->
+
+## Connect with Me
+<!-- 
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [Your Twitter Profile URL] -->
+
+- Personal Website: building...
+
+Feel free to explore my repositories and reach out to collaborate or discuss projects. 😊
