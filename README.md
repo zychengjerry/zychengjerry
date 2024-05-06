@@ -6,11 +6,13 @@ I'm Zeyuan Cheng (Jerry Cheng), an Engineer from China. Welcome to my GitHub pro
 
 - 🔭 I’m currently working for a company in Shenzhen
 - 🌱 I’m currently learning Frontend Engineering
+- 📚 I graduated from ANU
+- 🔥 I'm still studying...
 
 ## My Skills
 
-- Programming Languages: Html, CSS, JavaScript
-- Web Technologies: JavaScript, Vue.js, npm/yarn, Webpack/Vite, ESLint, Git, Jest
+- 💻 Programming Languages: HTML, CSS, JavaScript
+- 🚀 Web Technologies: JavaScript, Vue.js, npm/yarn, Webpack/Vite, ESLint, Git, Jest ...
 
 <!-- ## My Projects
 
@@ -23,6 +25,6 @@ I'm Zeyuan Cheng (Jerry Cheng), an Engineer from China. Welcome to my GitHub pro
 - LinkedIn: [Your LinkedIn Profile URL]
 - Twitter: [Your Twitter Profile URL] -->
 
-- Personal Website: building...
+- ✨ Personal Website: building...
 
-Feel free to explore my repositories and reach out to collaborate or discuss projects. 😊
+Feel free to explore my repositories and reach out to collaborate or discuss projects. 😎
